@@ -1,0 +1,22 @@
+Burned by the Alpha Warhead.
+Fell from a high height.
+Death from Femur bone Shock.
+Rotted away.
+Remaining bits of 106's victim.
+Electrical Shock.
+Blunt Trauma to the body.
+Was shot by [ammotype].
+The neck has been snapped.
+The body has rotted and decayed.
+No visible injury or death.
+Unknown death.
+It's <b>[user]</b>'s body - they were [class]!\n\nCause of death: [cause]
+Large amounts of blood loss and lacerations.
+large bite marks can be observed. 
+Melted to what seems to be pure rot.
+Large quantities of metal shards are in the body.
+Internal bleeding and pale skin.
+Recontained.
+Blunt trauma and some minor injuries are present,
+Large amounts of blood are pooling out of the body.
+The body slowly changes to a yellow tint showing poison.

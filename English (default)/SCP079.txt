@@ -1,0 +1,17 @@
+<color=#8080FF> AUXILIARY POWER</color>
+<color=#8080FF> EXPERIENCE</color>
+CAMERA:<color=red>◉REC</color>
+PRESS [KEY] TO TOGGLE THE SURVEILLANCE MAP
+Experience gained:
+Cooperative work
+<color=#FF8E00>Class-D</color> termination assist
+<color=#008F1E>CI Agent</color> termination assist
+<color=#0096FF>MTF NTF</color> termination assist
+<color=#FFFF7CFF>Scientist</color> termination assist
+<color=#F00>SCP Subject</color> termination assist
+LOCKED DOORS: [LOCKED_NUM]
+General interactions
+<color=#F00>Generator activated!</color>
+<color=#F00>Generators have been highlighted on the map!</color>
+<color=yellow>⚠</color>
+<color=#F00>SCP Subjects</color>{0}<color=#0096FF>MTF NTF</color> & <color=#727472>Guards</color>{1}<color=#FFFF7CFF>Scientists</color>{2}<color=#FF8E00>Class-D</color>{3}<color=#008F1E>CI Agents</color>{4}
